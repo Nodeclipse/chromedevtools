@@ -9,3 +9,5 @@ http://code.google.com/p/chromedevtools/source/checkout
     svn checkout http://chromedevtools.googlecode.com/svn/trunk/ chromedevtools-read-only 
 
 This is fresh fork, done by other developer. 
+
+**This is not version used in with Nodeclipse.**
