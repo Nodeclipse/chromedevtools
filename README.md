@@ -10,4 +10,4 @@ http://code.google.com/p/chromedevtools/source/checkout
 
 This is fresh fork, done by other developer. 
 
-**This is not version used in with Nodeclipse.**
+**This is not version used within Nodeclipse.**
